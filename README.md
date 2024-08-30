@@ -1,9 +1,8 @@
-## Oie! Eu sou a Nicole Marcondes.
+## <p align= center> Oie! Eu sou a Nicole Marcondes.</p>
 
+<p align= center> 💙Atualmente PROANE, equipe 5💙 
+<br>💻Cursando faculdade de Gestão de T.I </p>
 
-
-💙Atualmente PROANE, equipe 5💙<br>
-💻Cursando faculdade de Gestão de T.I
 
 ##
 <picture>
