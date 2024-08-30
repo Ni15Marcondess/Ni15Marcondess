@@ -1,5 +1,11 @@
+ <div align="center" height="300vh">
+  <a height="200vh" href="giithub img/welcome-images-server.gif"><img src="giithub img/welcome-images-server.gif?font=Inter&weight=300&size=15&pause=1000&color=52796F&center=true&vCenter=true&random=false&width=100vh&lines=%F0%9D%9C%97%F0%9D%9C%9A+Welcome+to+my+profile!+%E2%8A%B9+%E0%A3%AA+%CB%96" alt="Typing SVG" /></a>
+<img  alt="" src="./images/header_github.gif">
+</div>
+
+
 <div align="center">
- <h1> Oie!😊 Eu sou a Nicole Marcondes.</h1><br>
+<br> <p> Oie!😊Seja Bem vinda(o) ao meu perfil, <br>estou apliando meus horizontes e criando experiência,<br> mas espero que goste do meu conteúdo.🥰</p><br>
 </div>
 
  
