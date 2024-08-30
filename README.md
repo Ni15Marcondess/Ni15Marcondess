@@ -3,6 +3,8 @@
 <p align= center> 💙Atualmente PROANE, equipe 5💙 
 <br>💻Cursando faculdade de Gestão de T.I </p>
 
+<img align=right height=200vh scr="./giithub img/bee minecraft.gif">
+
 
 ##
 <picture>
