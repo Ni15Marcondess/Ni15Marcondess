@@ -1,6 +1,8 @@
 ## Oie! Eu sou a Nicole Marcondes.
 
-💙Atualmente PROANE, equipe 5💙
+
+
+💙Atualmente PROANE, equipe 5💙<br>
 💻Cursando faculdade de Gestão de T.I
 
 ##
