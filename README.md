@@ -8,7 +8,7 @@
 
 <div align="center">
  <img align="left" height="200vh" src="giithub img/mario.yoshi.gif"  />
-<br> <h3 align="right"> Oie!😊Seja Bem vinda(o) ao meu perfil, <br> estou ampliando meus horizontes e criando experiência,<br> mas espero que goste do meu conteúdo.🥰 </h3><br/><br/><br/><br/><br/>
+<br> <h3 align="right"> 😊Seja Bem vinda(o) ao meu perfil, <br> estou ampliando meus horizontes e criando experiência,<br> mas espero que goste do meu conteúdo.🥰 </h3><br/><br/><br/><br/><br/>
 </div>
 
 
@@ -40,7 +40,9 @@
 <div align= "center">
  <img align = "right" height="200vh" src="giithub img/bowser.rindo.gif"  />
  <img align = "left" height="200vh" src="giithub img/bowser.carro.gif"  />
+</div><br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/><br/><div>
+ <img align ="center" height="700vh" src="giithub img/mario.codando.gif" />
 </div>
-
-
 
