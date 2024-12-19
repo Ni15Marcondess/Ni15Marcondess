@@ -15,7 +15,7 @@
  
 <div align = "center">
 <img align="center" height="200vh" src="giithub img/mario.bota.gif"  />
-<p align= "center">💙Atualmente PROANE, equipe 5💙
+<p align= "center">💙Ex-PROANE💙
 <br>💻Cursando faculdade de Gestão de T.I </p><br>
 </div><br/><br/>
 
