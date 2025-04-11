@@ -1,21 +1,12 @@
-<div>
- <img align="center" height="700vh" src="giithub img/personalizado (1).png"  />
-</div>
- 
-<div align = "center">
-<img align="center" height="400vh" src="giithub img/mario.tchau.gif"  />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=848AFFDA&center=true&random=true&width=1000&height=70&lines=Ol%C3%A1%2C+bem+vinda(o)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<div align="center">
- <img align="left" height="200vh" src="giithub img/mario.yoshi.gif"  />
-<br> <h3 align="right"> 😊Seja Bem vinda(o) ao meu perfil, <br> estou ampliando meus horizontes e criando experiência,<br> mas espero que goste do meu conteúdo.🥰 </h3><br/><br/><br/><br/><br/>
-</div>
 
+ ![Image](https://github.com/user-attachments/assets/d5255126-6ab5-46d3-989d-b9c384bc051d)
 
  
 <div align = "center">
-<img align="center" height="200vh" src="giithub img/mario.bota.gif"  />
-<p align= "center">💙Ex-PROANE💙
+<img align="center" height="200vh" src="giithub img/kirby_dormindo.gif"  />
+<p align= "center">💙PROANE 2024💙
 <br>💻Cursando faculdade de Gestão de T.I </p><br>
 </div><br/><br/>
 
@@ -38,11 +29,14 @@
 
 
 <div align= "center">
- <img align = "right" height="200vh" src="giithub img/bowser.rindo.gif"  />
- <img align = "left" height="200vh" src="giithub img/bowser.carro.gif"  />
+ <img align = "right" height="200vh" src="giithub img/kirby_correndo.gif"  />
+ <img align = "left" height="200vh" src="giithub img/kirby.gif"  />
 </div><br/><br/><br/><br/><br/><br/>
 
 <br/><br/><br/><br/><div>
- <img align ="center" height="700vh" src="giithub img/mario.codando.gif" />
-</div>
+ 🌐 Onde me encontrar: 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcondess_ni/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-marcondes-987328252/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcondesnicole4@gmail.com) 
 
+![Image](https://github.com/user-attachments/assets/5aaefefe-b8d7-4d5e-b025-a9be8f6372d9)
