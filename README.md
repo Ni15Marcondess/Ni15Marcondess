@@ -6,8 +6,8 @@
  
 <div align = "center">
 <img align="center" height="200vh" src="giithub img/kirby_dormindo.gif"  />
-<p align= "center">💙PROANE 2024💙
-<br>💻Cursando faculdade de Gestão de T.I </p><br>
+<p align= "center">💙PROANE 2024💙<br>💻Cursando faculdade de Gestão de T.I💻 <br>🕹️Adoro jogos antigos🕹️<br>🌉Me sinto atraída pelo Design🌉<br>☁️Atualmente estudando sobre AWS + I.A☁️<br> 
+</p><br>
 </div><br/><br/>
 
 
