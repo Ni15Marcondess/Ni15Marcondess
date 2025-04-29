@@ -6,10 +6,13 @@
  
 <div align = "center">
 <img align="center" height="200vh" src="giithub img/kirby_dormindo.gif"  />
-<p align= "center">💙PROANE 2024💙<br>💻Cursando faculdade de Gestão de T.I💻 <br>🕹️Adoro jogos antigos🕹️<br>🌉Me sinto atraída pelo Design🌉<br>☁️Atualmente estudando sobre AWS + I.A☁️<br> 
-</p><br>
 </div><br/><br/>
 
+###
+# ⭐ Sobre mim...
+🎮 Amo Jogos🎮 <br> 📝 Cursando Gestão de T.I 📝 <br> 💙 Proana - 2024 💙<br>🖼 Gosto muito da área de Design 🖼 <br> 💻 Atualmente estudando sobre AWS + A.I 💻 <br> 🖤 - [My Beloved](https://github.com/gustavfaustino) <br> 
+<br>
+<br>
 
 <div align="center">
   
