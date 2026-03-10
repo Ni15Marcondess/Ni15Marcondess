@@ -10,7 +10,7 @@
 
 ###
 # ⭐ Sobre mim...
-🎮 Amo Jogos🎮 <br> 📝 Cursando Gestão de T.I 📝 <br> 💙 Proana - 2024 💙<br>🖼 Gosto muito da área de Design 🖼 <br> 💻 Atualmente estudando sobre AWS + A.I 💻 <br> 🖤 - [My Beloved](https://github.com/gustavfaustino) <br> 
+🎮 Amo Jogos🎮 <br> 📝 Cursando Engenharia de Software 📝 <br> 💙 Proana - 2024 💙<br>🖼 Gosto muito da área de Design 🖼 <br>  <br> 🖤 - [My Beloved](https://github.com/gustavfaustino) <br> 
 <br>
 <br>
 
