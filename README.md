@@ -12,7 +12,7 @@
 
 Sou estudante de Engenharia de Software e gosto de transformar ideias em soluções digitais, unindo desenvolvimento, criatividade e tecnologia.
 
-###   🐰 Minhas áreas de interesse:
+###   [🐰](https://projetofloquinho.vercel.app/) Minhas áreas de interesse:
 
 - 💻 Desenvolvimento Front-end
 - ☁️ Computação em Nuvem
