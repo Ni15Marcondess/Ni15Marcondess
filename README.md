@@ -94,9 +94,9 @@ Sou estudante de Engenharia de Software e gosto de transformar ideias em soluç�
     O cientista responsável está indisponível no momento.
   </p>
 
-  <img
+  <img align="center"
     src="./giithub_assets/terminal.gif"
-    alt="Floquinho dormindo em cima do teclado depois de um longo dia de programação"
+    alt="Floquinho tirando foto para suas redes"
     width="650"
   />
 
