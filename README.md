@@ -1,45 +1,133 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=848AFFDA&center=true&random=true&width=1000&height=70&lines=Ol%C3%A1%2C+bem+vinda(o)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=848AFFDA&center=true&random=true&width=1000&height=70&lines=Oiê,+bem+vinda(o)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
- ![Image](https://github.com/user-attachments/assets/d5255126-6ab5-46d3-989d-b9c384bc051d)
 
- 
-<div align = "center">
-<img align="center" height="200vh" src="giithub img/kirby_dormindo.gif"  />
-</div><br/><br/>
+<div align="center">
 
-###
-# ⭐ Sobre mim...
-🎮 Amo Jogos🎮 <br> 📝 Cursando Engenharia de Software 📝 <br> 💙 Proana - 2024 💙<br>🖼 Gosto muito da área de Design 🖼 <br>  <br> 🖤 - [My Beloved](https://github.com/gustavfaustino) <br> 
+
+
+# Oiê! Eu sou a Nicole 💜
+
+</div>
+
+Sou estudante de Engenharia de Software e gosto de transformar ideias em soluções digitais, unindo desenvolvimento, criatividade e tecnologia.
+
+###   🐰 Minhas áreas de interesse:
+
+- 💻 Desenvolvimento Front-end
+- ☁️ Computação em Nuvem
+- 🎨 UI/UX Design
+- 🤖 Dados e Inteligência Artificial
+
+<div align="center">
+  <!-- HEADER ANIMADO -->
+  <img
+    src="./giithub_assets/header.gif"
+    alt="Header roxo com a apresentação e o Floquinho acenando"
+    width="100%"
+  />
+</div>
+
+> 🐰 **Floquinho:** Está curiosa(o) pra saber quem sou?
+
 <br>
+
+<!-- SEÇÃO DE TECNOLOGIAS -->
+<div align="center">
+
+  <h2>💜 Minha caixa de ferramentas</h2>
+
+  <p> Tecnologias que utilizo para transformar ideias em projetos.</p>
+
+  <br>
+
+  <h3>🎨 Front-end & Design</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,figma&theme=light"
+       alt="HTML, CSS, JavaScript, React, TypeScript e Figma" />
+
+  <br><br>
+
+  <h3>☁️ Back-end, Cloud & Banco de Dados</h3>
+
+  <img src="https://skillicons.dev/icons?i=python,aws&theme=light"
+       alt="Java, Python, MySQL e AWS" />
+
+  <br><br>
+
+  <h3>📊 Dados & Visualização</h3>
+
+  <img src="https://img.shields.io/badge/Pandas-6C3EF4?style=for-the-badge&logo=pandas&logoColor=white"
+       alt="Pandas" />
+
+  <img src="https://img.shields.io/badge/Matplotlib-8B5CF6?style=for-the-badge&logo=python&logoColor=white"
+       alt="Matplotlib" />
+
+  <br><br>
+
+  <h3>🛠️ Versionamento & Colaboração</h3>
+
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light"
+       alt="Git e GitHub" />
+
+</div>
+
+<br>
+
+
+ > 🐰 **Floquinho:** Desenvolvendo, experimentando e aprendendo...
+
+
+<!-- FIM DA SEÇÃO DE TECNOLOGIAS -->
+
+
+
+<!-- PAUSA PARA O FLOQUINHO -->
+
 <br>
 
 <div align="center">
-  
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ni15Marcondess&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
+
+  <h2>🌙 O laboratório está em pausa...</h2>
+
+  <p>
+    Os experimentos de hoje foram concluídos.
+    O cientista responsável está indisponível no momento.
+  </p>
+
+  <img
+    src="./giithub_assets/terminal.gif"
+    alt="Floquinho dormindo em cima do teclado depois de um longo dia de programação"
+    width="650"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ni15Marcondess&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ni15Marcondess&show_icons=true" />
-</picture><br/><br/><br/><br/>
- 
+
+  <br>
+
+  <p>
+    <em>
+      💤 "Só vou fechar os olhos por cinco minutinhos..."
+    </em>
+  </p>
+
+  <sub>
+    Sistema em modo de descanso · Retornaremos após o café. ☕
+  </sub>
 </div>
 
+<br>
+<!-- FIM DA PAUSA -->
+<br>
 
-<div align= "center">
- <img align = "right" height="200vh" src="giithub img/kirby_correndo.gif"  />
- <img align = "left" height="200vh" src="giithub img/kirby.gif"  />
-</div><br/><br/><br/><br/><br/><br/>
+<div align=center >
 
-<br/><br/><br/><br/><div>
- 🌐 Onde me encontrar: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcondess_ni/)
+ 🌐 Onde me encontrar: <br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcondess_ni/) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-marcondes-987328252/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcondesnicole4@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolemarcondes31@outlook.com) 
 
-![Image](https://github.com/user-attachments/assets/5aaefefe-b8d7-4d5e-b025-a9be8f6372d9)
+</div>
+
+ <img
+    src="./giithub_assets/selfie.gif"
+    alt="Floquinho dormindo em cima do teclado depois de um longo dia de programação"
+    width="650"
+  />
