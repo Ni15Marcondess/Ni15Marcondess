@@ -125,9 +125,11 @@ Sou estudante de Engenharia de Software e gosto de transformar ideias em soluç�
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolemarcondes31@outlook.com) 
 
 </div>
-
+ <br><br >
+ <div align="center">
  <img
     src="./giithub_assets/selfie.gif"
     alt="Floquinho dormindo em cima do teclado depois de um longo dia de programação"
-    width="650"
+    width="800" 
   />
+  </div>
