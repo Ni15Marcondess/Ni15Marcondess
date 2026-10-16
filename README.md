@@ -12,7 +12,7 @@
 
 Sou estudante de Engenharia de Software e gosto de transformar ideias em soluções digitais, unindo desenvolvimento, criatividade e tecnologia.
 
-###   [🐰](https://projetofloquinho.vercel.app/) Minhas áreas de interesse:
+###   🐰 Minhas áreas de interesse:
 
 - 💻 Desenvolvimento Front-end
 - ☁️ Computação em Nuvem
@@ -94,11 +94,13 @@ Sou estudante de Engenharia de Software e gosto de transformar ideias em soluç�
     O cientista responsável está indisponível no momento.
   </p>
 
+<a href="https://projetofloquinho.vercel.app/">
   <img align="center"
     src="./giithub_assets/terminal.gif"
     alt="Floquinho tirando foto para suas redes"
     width="650"
   />
+</a>
 
   <br>
 
